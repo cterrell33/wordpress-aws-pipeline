@@ -1,10 +1,14 @@
 [
     {
-      "ParameterKey": "TBD",
-      "ParameterValue": "TBD"    
+      "ParameterKey": "VpcId",
+      "ParameterValue": "vpc-0d35ce211687a09b1"    
     },
     {
-      "ParameterKey": "TBD",
-      "ParameterValue": "TBD"    
+      "ParameterKey": "Subnets",
+      "ParameterValue": "subnet-0b1e3353c69324e5a,subnet-0b99bce89803af57d"    
+    },
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "mylab" 
     }
 ]

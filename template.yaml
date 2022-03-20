@@ -137,6 +137,7 @@ Parameters:
     AllowedPattern: '[a-zA-Z][a-zA-Z0-9]*'
     ConstraintDescription: must begin with a letter and contain only alphanumeric characters.
   DBUser:
+    Default: wordpressdb
     NoEcho: 'true'
     Description: The WordPress database admin account username
     Type: String
@@ -145,6 +146,7 @@ Parameters:
     AllowedPattern: '[a-zA-Z][a-zA-Z0-9]*'
     ConstraintDescription: must begin with a letter and contain only alphanumeric characters.
   DBPassword:
+    Default: wordpressdb
     NoEcho: 'true'
     Description: The WordPress database admin account password
     Type: String
