@@ -34,4 +34,6 @@ https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformatio
 7. Add defaults to DBUser and DBPassword parameters
 8. Create parameters.json file, popuplate with VpcId, Subnets, and KeyName parameters
 9. Create deploy.sh script
+10. Execute script: `./deploy.sh wordpress`
+
 
