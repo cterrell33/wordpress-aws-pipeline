@@ -35,5 +35,6 @@ https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformatio
 8. Create parameters.json file, popuplate with VpcId, Subnets, and KeyName parameters
 9. Create deploy.sh script
 10. Execute script: `./deploy.sh wordpress`
+11. Review deployed resources
 
 
