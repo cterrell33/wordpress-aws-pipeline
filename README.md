@@ -1,7 +1,9 @@
 # wordpress-aws-pipeline
 
 The purpose of this repository is to build out a scalable and durable wordpress architecture for my develop
-The sample template can be found here: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-east-1.html
+
+The sample template can be found here:
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-east-1.html
 
 
 
